@@ -18,7 +18,7 @@ body {
 
 .card {
   background-color: var(--card_bg);
-  max-width: 30%;
+  max-width: 35%;
   margin: 150px auto 0px;
   text-align: left;
   position: relative;
